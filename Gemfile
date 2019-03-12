@@ -49,6 +49,7 @@ gem 'foreman', '~> 0.82.0'
 gem 'active_model_serializers'
 gem 'rack-cors', require: 'rack/cors'
 gem 'carrierwave'
+gem "fog-aws"
 gem 'jbuilder', '~> 2.0'
 gem 'pry'
 
