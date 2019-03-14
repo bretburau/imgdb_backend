@@ -52,7 +52,7 @@ gem 'carrierwave'
 gem "fog-aws"
 gem 'jbuilder', '~> 2.0'
 gem 'pry'
-gem 'dotenv'
+gem 'dotenv-rails', groups: [:development, :test]
 
 #security updates
 gem "rack", ">= 2.0.6"
